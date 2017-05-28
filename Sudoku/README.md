@@ -8,7 +8,7 @@ A: Constraint Propogation is the process by which we use constraints in local
    are any dupicate boxes with length 2. If we found one then we proceed to 
    eliminate those 2 digits from our peers.
 
-<img src='Artificial-Nanodegree-Projects/images/naked_twins.png'>
+<img src='Sudoku/images/naked_twins.png'>
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
@@ -16,7 +16,7 @@ A: I think the easiest way to solve the diagonal sudoku problem is to add
    diagonal units to our list of units. This way we add the diagonal constraint 
    to our search problem.
 
-<img src='Artificial-Nanodegree-Projects/images/diag.png'>
+<img src='Sudoku/images/diag.png'>
 
 ### Install
 
